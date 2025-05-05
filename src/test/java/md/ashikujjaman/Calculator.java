@@ -1,4 +1,4 @@
-package com.it.bd;
+package md.ashikujjaman;
 
 public class Calculator {
 }
